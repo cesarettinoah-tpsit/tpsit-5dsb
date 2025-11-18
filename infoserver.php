@@ -8,23 +8,23 @@
 <body>
 
 <div class="container-fluid">
-    <div class="row bg-secondary text-white text-center py-4">
+    <div class="row bg-primary bg-gradient text-white text-center py-4">
         <div class="col">
             <?php require "inc/header.php"; ?>
         </div>
     </div>
 
     <div class="row">
-        <div class="col-4 col-md-3 bg-warning bg-gradient text-dark py-4">
+        <div class="col-4 col-md-3 bg-info bg-gradient text-dark py-4">
             <?php require "inc/menu.php"; ?>
         </div>
         
-        <div class="col-8 col-md-9 py-4">
+        <div class="col-8 col-md-9 py-4 bg-light">
             <?php phpinfo() ?>
         </div>
     </div>
 
-    <div class="row bg-info bg-gradient text-white text-center py-4">
+    <div class="row bg-dark bg-gradient text-white text-center py-4">
         <div class="col">
             <?php require "inc/footer.php"; ?>
         </div>
