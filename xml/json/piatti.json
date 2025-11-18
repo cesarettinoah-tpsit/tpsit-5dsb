@@ -1,0 +1,13 @@
+{
+    "piatto": {
+        "@attributes": {
+            "id": "1"
+        },
+        "nome": "cotoletta di pollo",
+        "tipologia": "Secondo",
+        "descrizione": "cotoletta di pollo milanese accompagnata da patate fritte e salse.",
+        "prezzo": "12.00",
+        "vegetariano": "no",
+        "vegano": "no"
+    }
+}

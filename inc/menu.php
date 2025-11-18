@@ -36,6 +36,12 @@
         <i class="fas fa-code me-3 fs-5"></i>
         <span class="fs-5">XML Gest</span>
     </a>
+
+    <a class="btn btn-outline-light btn-lg w-100 mb-3 d-flex align-items-center justify-content-start px-3 py-2 rounded-pill border-0 bg-opacity-10 bg-white shadow-sm" 
+       href="export_xml_json.php">
+        <i class="fas fa-code me-3 fs-5"></i>
+        <span class="fs-5">XML TO JSON</span>
+    </a>
 </nav>
 
 
